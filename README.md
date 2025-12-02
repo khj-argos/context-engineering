@@ -64,7 +64,7 @@ Context Engineering represents a paradigm shift from traditional prompt engineer
 ## Template Structure
 
 ```
-context-engineering-intro/
+context-engineering/
 ├── .claude/
 │   ├── commands/
 │   │   ├── generate-prp.md    # Generates comprehensive PRPs
