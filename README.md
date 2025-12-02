@@ -81,7 +81,7 @@ context-engineering-intro/
 └── README.md                # This file
 ```
 
-This template doesn't focus on RAG and tools with context engineering because I have a LOT more in store for that soon. ;)
+This template doesn't focus on RAG and tools with context engineering
 
 ## Step-by-Step Guide
 
